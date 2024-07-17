@@ -18,7 +18,7 @@ const items = [
         id: '002',
         image: '2.jpg',
         company: 'CUKOO',
-        item_name: 'Women Padded Halter Neck Swimming Dress',
+        item_name: 'Women suit',
         original_price: 2599,
         current_price: 1507,
         discount_percentage: 42,
